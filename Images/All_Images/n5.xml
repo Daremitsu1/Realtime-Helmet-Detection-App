@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No_Helmet</folder>
+	<filename>7ec2ac52-a931-11ec-94a8-9843fa46df4e.jpg</filename>
+	<path>C:\Users\USER\Documents\Python Scripts\Realtime_Object_Detection\Images\No_Helmet\7ec2ac52-a931-11ec-94a8-9843fa46df4e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No_Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>159</ymin>
+			<xmax>457</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>
